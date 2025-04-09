@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section
       id="hero"
-      className="h-screen flex flex-col justify-center items-center text-center bg-blue-500 text-white p-10"
+      className="h-screen flex flex-col justify-center items-center text-center bg-slate-900 text-white p-10"
     >
       <h1 className="text-5xl font-bold">Bem-vindo ao Meu Site</h1>
       <p className="text-xl mt-4">
